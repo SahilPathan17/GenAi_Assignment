@@ -1,6 +1,6 @@
 # GenAi_Assignment
 <br>
----
+<hr>
 1. Introduces the Transformer model based on attention mechanisms for sequence transduction tasks.                <br>
 2. Aims to replace complex recurrent or convolutional neural networks with a more parallelizable architecture.    <br>
 3. Shows superior quality in machine translation tasks with faster training and more parallelization.             <br>
@@ -11,4 +11,4 @@
 8. Adam optimizer used with customized hyperparameters and learning rate schedule.                                <br>
 9. Demonstrates improved BLEU scores on English-to-German and English-to-French translation tasks.                <br>
 10. Provides an efficient and effective alternative model architecture for sequence transduction tasks.           <br>
----
+<hr>
